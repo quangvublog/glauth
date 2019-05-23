@@ -208,13 +208,14 @@ make all
 
 ### Support
 
-Support the ongoing development of GLAuth!
+Quang Vũ Blog
 
-**Paypal**
+Địa chỉ: 432 Nguyễn Thị Minh Khai, Phường 5, Quận 3, Hồ Chí Minh
 
-[![Donate via Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](http://paypal.me/benyanke)
+Phone: +84 977 689 733
+
+Email: quangvublog@gmail.com
+
+source: <a href="https://blog.vu-review.com">thủ thuật máy tính - Quang Vũ Blog</a>
 
 
-**Bitcoin Address**
-
-39z2Zkoc24LsuiqCQNFe7QrX4da3mzbGjK
